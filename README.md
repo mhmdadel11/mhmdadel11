@@ -2,7 +2,7 @@
 - 🔭 I graduated from Computer & Information Science With Grade (Very Good) <<2017 : 2021>>
 - 🌱 I’m currently learning Angular and AWS
 - ⚡ In my free time, Learn new topics in the field of programming and problem solving
-- 📫 How to reach me muhamedadelmosa@gmail.com
+- 📫 How to reach me muhamedadelmosa@gmail.com OR www.linkedin.com/in/mohamed-adel-11326a235
 
 
 <!---
